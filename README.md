@@ -67,4 +67,4 @@ All settings are at the top of the script in `index.html`:
 
 ### License
 
-Released under the [MIT License](LICENSE). © 2026 [YOUR NAME]
+Released under the [MIT License](LICENSE). © 2026 [Walid Hattaoui]

@@ -36,8 +36,8 @@ Download or clone the repo and double-click `index.html`.
 **Option 2: local server**
 
 ```bash
-git clone https://github.com/[username]/snake-game.git
-cd snake-game
+git clone https://github.com/walidwh21/Snake-Game
+cd Snake-Game
 python3 -m http.server 8000
 ```
 
